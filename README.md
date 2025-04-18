@@ -1,3 +1,7 @@
+# Welcome to Dry Fruit Kingdom
+- [English Version](README.md%20ENG)
+- [Other Language Version](README.md%20OtherLanguage)
+
 # 📦 Local Hosting Guide using XAMPP + phpMyAdmin
 
 ## 🛠️ Requirements
